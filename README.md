@@ -1,15 +1,37 @@
 <div align="right">
-🌐 <b>Language:</b> <a href="#english-version"><b>EN</b></a> | <a href="#arabic-version">AR</a>
+🌐 <b>Language:</b>
+<a href="#english">EN</a> |
+<a href="#arabic">AR</a>
 </div>
 
-<a id="english-version"></a>
+---
 
-# Raed 👋  
-## Chief Technology Officer (CTO) | AI & Software Engineering Leader
+## <a id="english"></a> Raed 👋  
+### Chief Technology Officer (CTO) | AI & Software Engineering Leader
 
-I am a technology leader and hands-on software engineer specializing in **building scalable, production-grade systems** at the intersection of **AI, software engineering, product, and business**.
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://skillicons.dev/icons?i=telegram" height="36"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+</p>
 
-My focus is not just building models — but **shipping reliable systems that work in real-world production**.
+---
+
+I am a **technology leader and hands-on software engineer** focused on building **scalable, production-grade systems** at the intersection of **AI, software engineering, product, and business**.
+
+I specialize in turning complex ideas and AI research into **real systems that work reliably in production**.
 
 ---
 
@@ -21,7 +43,7 @@ My focus is not just building models — but **shipping reliable systems that wo
 I believe:
 - AI is a **tool**, not a goal  
 - Architecture quality defines product longevity  
-- Great products are born from strong engineering foundations
+- Strong engineering beats quick hacks  
 
 ---
 
@@ -30,14 +52,14 @@ As a CTO / Tech Lead, I take ownership of:
 
 - Defining long-term technical vision and roadmap  
 - Designing scalable, maintainable architectures  
-- Technology selection based on business value  
+- Selecting technologies based on business value  
 - Leading and mentoring engineering teams  
 - Bridging **business, product, and engineering**  
 - Managing technical risk, security, and scalability  
 
 ---
 
-## 🛠️ Technical Skills (Icon-Based)
+## 🛠️ Technical Skills (Icons Only)
 
 ### Programming & Core Engineering
 <p align="left">
@@ -77,17 +99,17 @@ As a CTO / Tech Lead, I take ownership of:
 A full-scale AI-powered health and lifestyle platform designed to organize the user's entire day.
 
 **Key contributions:**
-- Designed **offline-first architecture**
-- Flutter UI inspired by Huawei Health
-- Local AI inference using **Rust + FFI**
-- Smart AI-generated health reports
-- SQLite local storage with Firebase sync
-- Advanced charts & dashboards
-- Smart notifications
-- Apple Watch & Fitbit integration
+- Offline-first system architecture  
+- Flutter UI inspired by Huawei Health  
+- Local AI inference using **Rust + FFI**  
+- Smart AI-generated health reports  
+- SQLite local storage with Firebase sync  
+- Advanced charts & dashboards  
+- Smart notifications  
+- Apple Watch & Fitbit integration  
 
-**Value:**  
-Real on-device AI with strong UX and production-grade reliability.
+**Business value:**  
+On-device AI, privacy-first design, and production-grade reliability.
 
 ---
 
@@ -97,20 +119,20 @@ Real on-device AI with strong UX and production-grade reliability.
 A smart installment and credit decision platform targeting the US market.
 
 **Focus areas:**
-- Secure & compliant architecture
-- Credit behavior analysis
-- AI-driven decision systems
-- Scalable backend design
-- Risk management & fraud prevention
+- Secure and compliant architecture  
+- Credit behavior analysis  
+- AI-driven decision systems  
+- Scalable backend design  
+- Risk management & fraud prevention  
 
 ---
 
-### 🧩 AI & Engineering Projects
-- Production-ready AI services (Dockerized)
-- REST APIs for AI & data systems
-- Local and cloud-based LLM integration
-- Data pipelines and analytics dashboards
-- Clean, well-documented open-source projects
+### 🧩 Additional Engineering Work
+- Production-ready AI services (Dockerized)  
+- REST APIs for AI and data platforms  
+- Local & cloud-based LLM integration  
+- Data pipelines and analytics dashboards  
+- Clean, well-documented open-source projects  
 
 ---
 
@@ -119,15 +141,7 @@ A smart installment and credit decision platform targeting the US market.
 - Reducing infrastructure and inference costs  
 - Accelerating time-to-market  
 - Improving engineering quality and standards  
-- Making technical decisions aligned with growth  
-
----
-
-## 🤝 Collaboration & Roles
-- CTO / Co-founder  
-- Lead Engineer  
-- Technical Advisor  
-- AI / SaaS / FinTech / HealthTech Products  
+- Aligning technical decisions with growth  
 
 ---
 
@@ -135,17 +149,22 @@ A smart installment and credit decision platform targeting the US market.
 - Simplicity scales better than complexity  
 - Offline-first beats cloud-dependence  
 - Architecture is a long-term investment  
-- Teams succeed when systems are clean  
+- Great teams build great systems  
 
 ---
 
-## 📬 Contact
-- GitHub: (your profile)  
-- LinkedIn: (add link)  
-- Email: (optional)  
+## 🤝 Collaboration & Roles
+- CTO / Co-founder  
+- Lead Engineer  
+- Technical Advisor  
+- AI · SaaS · FinTech · HealthTech  
 
 ---
 
-<a id="arabic-version"></a>
+---
 
-<!-- Arabic version goes here -->
+## <a id="arabic"></a> رائد 👋  
+### Chief Technology Officer (CTO) | قائد تقني وهندسي
+
+هذا القسم مخصص للنسخة العربية (يمكنك إضافة النسخة الكاملة لاحقًا).
+
