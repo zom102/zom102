@@ -1,9 +1,3 @@
-<div align="right">
-🌐 <b>Language:</b>
-<a href="#english">EN</a> |
-<a href="#arabic">AR</a>
-</div>
-
 ---
 
 ## <a id="english"></a> Raed 👋  
@@ -162,9 +156,3 @@ A smart installment and credit decision platform targeting the US market.
 ---
 
 ---
-
-## <a id="arabic"></a> رائد 👋  
-### Chief Technology Officer (CTO) | قائد تقني وهندسي
-
-هذا القسم مخصص للنسخة العربية (يمكنك إضافة النسخة الكاملة لاحقًا).
-
